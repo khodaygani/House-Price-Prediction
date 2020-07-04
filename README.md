@@ -1,6 +1,10 @@
 # House-Price-Prediction
 
 I have tried to make the model as small as possible, at the same time have a score in the acceptable interval.
+
+
+
+
 Data Tidying:
 
 • Removing outliers did not have a positive effect, so I deleted that part to make the model as simple
